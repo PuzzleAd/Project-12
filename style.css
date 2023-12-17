@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding: 72px 24px 71px 24px;
+    display: grid;
+    gap: 23px;
+}
+.daniel_clifford{
+    background-color: #733FC8;
+    background-image: url(./Images/“.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+    border-radius: 8px;
+    box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+    padding: 26px 32px 32px 32px;
+
+}
+.daniel_image{
+    display: flex;
+    align-items: center;
+    gap: 17px; 
+}
+.daniel_image_paragraph > h1{
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 100% */ 
+}
+.daniel_image_paragraph > p{
+    margin-top: 5px;
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px; /* 100%  */
+}
+.daniel_clifford > h1{
+    margin-top: 18px;
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.daniel_clifford > p{
+    margin-top: 40px;
+    color: #CFCFCF;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 138.462% */
+}
+.jonathan_walters{
+    padding: 26px 32px 32px 32px;
+    border-radius: 8px;
+    background: #48556A;
+    box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+}
+.jonathan_image{
+    display: flex;
+    gap: 17px;
+    align-items: center;
+}
+.jonathan_image_paragraph{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.jonathan_image_paragraph > h1{
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 100% */
+}
+.jonathan_image_paragraph > p{
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px; /* 100% */
+}
+.jonathan_walters > h1{
+    margin-top: 18px;
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.jonathan_walters > p{
+    margin-top: 16px;
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 138.462% */
+}
+.jeanette_harmon{
+    padding: 26px 32px 32px 32px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+}
+.jeanette_image{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+.jeanette_image_paragraph{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.jeanette_image_paragraph > h1{
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 100% */
+}
+.jeanette_image_paragraph > p{
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px; /* 100% */
+}
+.jeanette_harmon > h1{
+    margin-top: 18px;
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.jeanette_harmon > p{
+    margin-top: 18px;
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 138.462% */
+}
+.patrick_abrams{
+    padding: 26px 32px 32px 32px;
+    border-radius: 8px;
+    background: #19202D;
+    box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+}
+.patrick_image{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+.patrick_image_paragraph{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.patrick_image_paragraph > h1{
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 100% */
+}
+.patrick_image_paragraph > p{
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px; /* 100% */
+}
+.patrick_abrams > h1{
+    margin-top: 18px;
+    color: #ECF2F8;
+    font-family: Barlow Semi Condensed;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.patrick_abrams > p{
+    margin-top: 16px;
+    color: #FFF;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 138.462% */
+}
+.kira_whittle{
+    padding: 26px 32px 32px 32px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+}
+.kira_image{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+.kira_image_paragraph{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.kira_image_paragraph > h1{
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 100% */
+}
+.kira_image_paragraph > p{
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px; /* 100% */
+}
+.kira_whittle > h1{
+    margin-top: 18px;
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.kira_whittle > p{
+    margin-top: 16px;
+    color: #48556A;
+    font-family: Barlow Semi Condensed;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 138.462% */
+}
